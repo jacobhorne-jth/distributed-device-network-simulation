@@ -60,13 +60,13 @@ You will be prompted to enter the path to an input file describing the simulatio
 
 _Example input file:_
 
-insert ouytput
+<img src="images/sampleinput.png" width="200">
 
 The program prints event logs to the console.
 
 _Example output file:_
 
-insert output
+<img src="images/sampleoutput.png" width="400">
 
 _Controls_
 
